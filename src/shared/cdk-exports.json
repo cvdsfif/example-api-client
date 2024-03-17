@@ -1,0 +1,5 @@
+{
+  "ExampleCdkApiStack": {
+    "ApiURL": "https://yoncsws191.execute-api.eu-west-2.amazonaws.com/"
+  }
+}
